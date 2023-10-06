@@ -1,8 +1,8 @@
 # Gradio demo for FastSAM (Fast Segment Anything Model)
 
-https://huggingface.co/spaces/RashiAgarwal/FastSAM_Gradio
+https://huggingface.co/spaces/MadhurGarg/FastSAM_Gradio
 
-### Partner from ERAv1 - Madhur Prakash Garg
+### Partner from ERAv1 - Rashi Agarwal
 
 ## Segment everything
 
